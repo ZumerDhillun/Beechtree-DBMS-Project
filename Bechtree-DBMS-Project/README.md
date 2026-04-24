@@ -4,14 +4,7 @@
 Beechtree is a full-stack web-based database management system developed to simulate operations of a clothing brand. The system manages multiple product categories along with customer data, enabling efficient handling of business operations through a structured interface.
 
 ## Key Features
-- Manage multiple product categories:
-  - Jewelry
-  - Cushions
-  - Stitched Dresses
-  - Unstitched Dresses
-  - Arts
-  - Scarves
-  - Campaigns
+- Manage multiple product categories
 - Customer data management
 - Full CRUD operations (Create, Read, Update, Delete)
 - Organized and scalable data handling

@@ -1,4 +1,4 @@
-# Beechtree Database Management System 👗
+# Beechtree Database Management System 
 
 ## Overview
 Beechtree is a full-stack web-based database management system developed to simulate operations of a clothing brand. The system manages multiple product categories along with customer data, enabling efficient handling of business operations through a structured interface.
